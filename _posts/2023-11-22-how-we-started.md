@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "How did this all get started?"
-categories: [about]
-image: assets/images/ashyells_airplane.jpg
+date: 2023-11-23 00:00:00 +0300
+img: ggp.jpeg
 author: yellz
-tags: featured
+tags: [featured]
 ---
 
-hi! hi we're in love! hi we're in love and we're travelling the world.
+hi! hi we're in love! hi we're in love and we're traveling the world.
 
 Our friend Mary asked me yesterday how this whole world travel plan got started, and reflecting on why we decided to do this was actually comforting amidst all the anxieties and stresses around packing up our apartment and saying goodbye to our friends and family that we love (aka all of you <3). There's so many unknowns ahead of us, and reflecting on the excitement, curiosity and original reasons for deciding to go on this trip felt very grounding and revitalizing.
 

@@ -1,70 +1,32 @@
-# Site
-name: "Ashyella Travels"
-description: "A travel blog to keep our friends and family updated."
-logo: "assets/images/logo.png"
-favicon: "assets/images/favicon.ico"
-baseurl: ""
-disqus: "demowebsite"
-email: "wowthemesnet@gmail.com"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+title: Hi, we're in love
+description: > # this means to ignore newlines until "baseurl:"
+  Hiiiiii. We're Ash & Yella and we're going on a world tour in 2024. We want this blog to be a space for family & friends to follow along.
+permalink: ":title/"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-include: ["_pages"]
-permalink: /:title/
+# Author Settings
+author: Ash & Yella # add your name
+author-img: ashyells_airplane.jpg # add your photo
+about-author: Hiiiiii. We're Ash & Yella and we're going on a world tour in 2024. We want this blog to be a space for family & friends to follow along. # add description
+social-instagram: hiwereinlove # add your Facebook handle
+social-email: hiwereinlove22@gmail.com # add your Email address
 
-# Plugins
+# Disqus
+discus-identifier: hiwereinlove # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jemoji
 
-authors:
-  daniela:
-    name: Daniela / Yella / Yellz
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+paginate: 8
+paginate_path: "/page/:num"
 
-  ash:
-    name: Ash / Ashhhh / AshCash
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar2.jpg
-    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
-
-# Defaults
-defaults:
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: daniela
-      avatar: /assets/images/avatar1.jpg
-
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-
-# Syntax
-markdown: kramdown
-highlighter: rouge
-
-# Paginate
-paginate: 10
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude:
-  [
-    README.markdown,
-    package.json,
-    grunt.js,
-    Gruntfile.js,
-    Gruntfile.coffee,
-    node_modules,
-  ]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
