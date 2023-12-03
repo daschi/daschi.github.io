@@ -7,7 +7,7 @@ author: yellz
 tags: [itinerary]
 ---
 
-I am really excited about exploring how we can build this blog and make it beautiful. We're motivated to keep this updated for our families and so that we can remember and share our experiences. There's definitely a lot of challenges with building and maintaining a travel blog for the first time, so there's a lot I'm sure we'll learn along the way! In the meantime, here's a very simple list of our itinerary so far. We're trying to imagine better ways of presenting this info, so it might evovle over time.
+I am really excited about exploring how we can build this blog and make it beautiful. We're motivated to keep this updated for our families and so that we can remember and share our experiences. There's definitely a lot of challenges with building and maintaining a travel blog for the first time, so there's a lot I'm sure we'll learn along the way! In the meantime, here's a very simple list of our itinerary so far. We're trying to imagine better ways of presenting this info, so it might evolve over time.
 
 <i class="fa fa-calendar" aria-hidden="true"></i> January 2024
 
@@ -39,3 +39,7 @@ I am really excited about exploring how we can build this blog and make it beaut
 | February 10 - April 1 | Barranquilla, Colombia|
 |===============|
 {: .responsive-table }
+
+We'll keep updating this once we know more!
+
+Updated: 12/03/2024
