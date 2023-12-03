@@ -23,7 +23,8 @@ comments: true
           <span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </div>
       </header>
-      {{content | markdownify}} {% include disqus.html %}
+      {{content | markdownify}}
+      <!-- {% include disqus.html %} -->
     </div>
     <!-- End Wrap Content -->
   </div>
