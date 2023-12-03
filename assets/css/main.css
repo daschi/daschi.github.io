@@ -830,57 +830,54 @@ pre code {
 }
 
 table {
-  border: 1px solid #aaa;
-  background-color: #eee;
+  border: 1px solid #145369;
+  background-color: #fff;
+  border-radius: 8px;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
 }
 
 table td,
-table.blueTable th {
-  border: 1px solid #aaa;
+th {
+  border: 1px solid #145369;
   padding: 3px 2px;
 }
 
 table tbody td {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 table tr:nth-child(even) {
-  background: #adbecc;
+  background: transparent;
 }
 
 table thead {
-  background: #a9c4d1;
-  background: -webkit-gradient(
+  background-color: #2596be;
+  /* background: -webkit-gradient(
     linear,
     left top,
     left bottom,
     from(#bed3dc),
     color-stop(66%, #b1cad5),
     to(#a9c4d1)
-  );
-  background: -webkit-linear-gradient(
+  ); */
+  /* background: -webkit-linear-gradient(
     top,
     #bed3dc 0%,
     #b1cad5 66%,
     #a9c4d1 100%
-  );
-  background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
-  background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
-  border-bottom: 1px solid #8c8c8c;
+  ); */
+  /* background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%); */
+  /* background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%); */
+  border-bottom: 1px solid black;
 }
 
 table thead th {
   font-size: 14px;
   font-weight: bold;
-  color: #fff;
-  border-left: 1px solid #d0e4f5;
-}
-
-table thead th:first-child {
-  border-left: none;
+  color: black;
+  border: none;
 }
 
 table tfoot {
@@ -1255,6 +1252,7 @@ a.newer-posts:hover {
   max-height: 500px;
   background-color: #fafafa;
   overflow: hidden;
+  max-width: 100%;
 }
 
 .page-cover-image figure {
@@ -1335,6 +1333,38 @@ a.newer-posts:hover {
 
 .page-footer .page-tag a:hover {
   text-decoration: underline;
+}
+
+.responsive-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+.responsive-table th,
+.responsive-table td {
+  padding: 8px;
+  text-align: left;
+}
+.responsive-table th {
+  background-color: transparent;
+}
+
+.responsive-table th:nth-child(1),
+.responsive-table td:nth-child(1) {
+  width: 40%;
+}
+
+.responsive-table th:nth-child(2),
+.responsive-table td:nth-child(2) {
+  width: 60%;
+}
+
+/* Optional: Adjust styles for different screen sizes */
+@media (max-width: 600px) {
+  .responsive-table th,
+  .responsive-table td {
+    padding: 6px;
+  }
 }
 
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
