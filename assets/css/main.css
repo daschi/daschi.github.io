@@ -776,7 +776,7 @@ html {
 
 body {
   font-family: "Roboto Mono", monospace;
-  font-weight: bold;
+  font-weight: 600;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -996,7 +996,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: "PT Serif", serif;
+  font-family: "Poppins";
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1023,7 +1023,7 @@ table tfoot td {
 }
 
 .about p {
-  font-size: 16px;
+  font-size: 12px;
   margin: 0 0 10px;
 }
 
@@ -1122,7 +1122,7 @@ table tfoot td {
 }
 
 footer .copyright {
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
   margin: 0;
 }
@@ -1184,12 +1184,13 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 21px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
-  font-family: "PT Serif", serif;
+  font-family: "Poppins";
+  font-weight: bolder;
   text-decoration: none;
   color: #263959;
 }
