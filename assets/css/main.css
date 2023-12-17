@@ -1542,3 +1542,7 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+#itinerary-title {
+  width: 100%;
+}
