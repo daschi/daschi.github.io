@@ -3,7 +3,7 @@ layout: default
 ---
 
 <aside class="sidebar">
-  <header>
+  <header class="about-header">
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"
@@ -16,8 +16,20 @@ layout: default
       <p>{{site.about-author}}</p>
     </div>
   </header>
+  <section class="navigation-menu">
+    <div>
+      <ul>
+        <li>
+          <a href="{{ site.baseurl }}/itinerary">Itinerary</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/">Posts</a>
+        </li>
+      </ul>
+    </div>
+  </section>
   <!-- End Header -->
-  <footer>
+  <footer class="footer">
     <section class="contact">
       <h3 class="contact-title">Message us</h3>
       <ul>

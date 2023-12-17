@@ -941,10 +941,11 @@ table tfoot td {
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 .sidebar {
   display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
+  display: -webkit-grid;
+  display: -ms-grid;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  /* -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
@@ -952,7 +953,7 @@ table tfoot td {
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
-  justify-content: space-between;
+  justify-content: space-between; */
   position: fixed;
   top: 0;
   left: 0;
@@ -961,6 +962,10 @@ table tfoot td {
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
+}
+
+.about-header {
+  grid-area: 1;
 }
 
 .about {
@@ -1125,6 +1130,10 @@ footer .copyright {
   font-size: 12px;
   text-align: center;
   margin: 0;
+}
+
+footer.footer {
+  grid-area: 4;
 }
 
 .post {
@@ -1477,6 +1486,7 @@ a.newer-posts:hover {
   .sidebar footer {
     margin-bottom: 10px;
   }
+
   .about {
     text-align: center;
     max-width: 480px;
@@ -1545,4 +1555,17 @@ a.newer-posts:hover {
 
 #itinerary-title {
   width: 100%;
+}
+
+.navigation-menu {
+  grid-area: 2;
+  ul {
+    list-style-type: none;
+  }
+  ul > li > a {
+    text-decoration: none;
+    &:active {
+      color: #145369;
+    }
+  }
 }
