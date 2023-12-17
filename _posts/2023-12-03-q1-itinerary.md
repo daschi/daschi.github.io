@@ -17,8 +17,9 @@ I am really excited about exploring how we can build this blog and make it beaut
 | January 10-12 | Santiago, Chile |
 | January 12-14 | Puerto Natales, Chile |
 | January 14-18 | PATAGONIA! Torres Del Paine, Chile |
-| January 18-24 | El Calafate & El Chalten, Argentina |
-| January 24-February 3 | Buenos Aires, Argentina |
+| January 18-23 | El Calafate & El Chalten, Argentina |
+| January 23-26 | Bariloche, Argentina |
+| January 26-February 5 | Buenos Aires, Argentina |
 |===============|
 {: .responsive-table }
 
@@ -27,7 +28,7 @@ I am really excited about exploring how we can build this blog and make it beaut
 |---------------|
 | Dates | Place |
 |-------|-------|
-| February 3 - March 10 | TBD! Iguazu Falls, Montevideo, Uruguay , Bahia, Brazil |
+| February 5 - March 10 | TBD! Iguazu Falls, Montevideo, Bahia, OPEN TO IDEAS |
 |===============|
 {: .responsive-table }
 
@@ -36,7 +37,7 @@ I am really excited about exploring how we can build this blog and make it beaut
 |---------------|
 | Dates | Place |
 |-------|-------|
-| March 10 - April 1 | Barranquilla, Colombia|
+| March 10 - April 1 | Barranquilla, Colombia (Yoga Teacher Training)|
 |===============|
 {: .responsive-table }
 
