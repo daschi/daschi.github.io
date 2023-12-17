@@ -43,4 +43,4 @@ I am really excited about exploring how we can build this blog and make it beaut
 
 We'll keep updating this once we know more!
 
-Updated: 12/03/2024
+Updated: 12/17/2024
