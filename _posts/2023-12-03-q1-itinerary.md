@@ -36,7 +36,7 @@ I am really excited about exploring how we can build this blog and make it beaut
 |---------------|
 | Dates | Place |
 |-------|-------|
-| February 10 - April 1 | Barranquilla, Colombia|
+| March 10 - April 1 | Barranquilla, Colombia|
 |===============|
 {: .responsive-table }
 
