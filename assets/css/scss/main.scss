@@ -2,6 +2,31 @@
 @import "syntax";
 @import "variables";
 
+/* added by daniela */
+
+p:has(> img.center) {
+  text-align: center;
+}
+
+#itinerary-title {
+  width: 100%;
+}
+
+.navigation-menu {
+  grid-area: 2;
+  ul {
+    list-style-type: none;
+  }
+  ul > li > a {
+    text-decoration: none;
+    &:active {
+      color: #145369;
+    }
+  }
+}
+
+/* end added by daniela */
+
 *,
 *::after,
 *::before {

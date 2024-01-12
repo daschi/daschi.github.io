@@ -1569,3 +1569,9 @@ a.newer-posts:hover {
     }
   }
 }
+
+/* Added classes */
+
+p:has(> img.center) {
+  text-align: center;
+}
