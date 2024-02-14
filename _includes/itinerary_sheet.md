@@ -83,60 +83,60 @@
 | Saturday, March 30, 2024 | Barranquilla, Colombia |
 | Sunday, March 31, 2024 | Barranquilla, Colombia |
 | Monday, April 1, 2024 | Barranquilla, Colombia |
-| Tuesday, April 2, 2024 | Santa Marta ? |
-| Wednesday, April 3, 2024 | Santa Marta ? |
-| Thursday, April 4, 2024 | Santa Marta ? |
-| Friday, April 5, 2024 | Santa Marta ? |
-| Saturday, April 6, 2024 | Medellin |
-| Sunday, April 7, 2024 | Medellin |
-| Monday, April 8, 2024 | Medellin |
-| Tuesday, April 9, 2024 | Medellin |
-| Wednesday, April 10, 2024 | Medellin |
-| Thursday, April 11, 2024 |
-| Friday, April 12, 2024 |
-| Saturday, April 13, 2024 |
-| Sunday, April 14, 2024 |
-| Monday, April 15, 2024 | Medellin |
-| Tuesday, April 16, 2024 | Medellin |
-| Wednesday, April 17, 2024 |
-| Thursday, April 18, 2024 |
-| Friday, April 19, 2024 | Ecuador? |
-| Saturday, April 20, 2024 | Ecuador? |
-| Sunday, April 21, 2024 | Ecuador? |
-| Monday, April 22, 2024 |
-| Tuesday, April 23, 2024 |
-| Wednesday, April 24, 2024 |
-| Thursday, April 25, 2024 |
-| Friday, April 26, 2024 |
-| Saturday, April 27, 2024 |
-| Sunday, April 28, 2024 |
+| Tuesday, April 2, 2024 | Santa Marta, Colombia |
+| Wednesday, April 3, 2024 | Santa Marta, Colombia |
+| Thursday, April 4, 2024 | Santa Marta, Colombia |
+| Friday, April 5, 2024 | Santa Marta, Colombia |
+| Saturday, April 6, 2024 | Santa Marta, Colombia |
+| Sunday, April 7, 2024 | Santa Marta, Colombia |
+| Monday, April 8, 2024 | Santa Marta, Colombia |
+| Tuesday, April 9, 2024 | San Francisco |
+| Wednesday, April 10, 2024 | San Francisco |
+| Thursday, April 11, 2024 | San Francisco |
+| Friday, April 12, 2024 | San Francisco |
+| Saturday, April 13, 2024 | San Francisco |
+| Sunday, April 14, 2024 | San Francisco |
+| Monday, April 15, 2024 | Quito, Bolivia |
+| Tuesday, April 16, 2024 | Quito, Bolivia |
+| Wednesday, April 17, 2024 | Quito, Bolivia |
+| Thursday, April 18, 2024 | Galapagos, Bolivia |
+| Friday, April 19, 2024 | Galapagos, Bolivia |
+| Saturday, April 20, 2024 | Galapagos, Bolivia |
+| Sunday, April 21, 2024 | Galapagos, Bolivia |
+| Monday, April 22, 2024 | Galapagos, Bolivia |
+| Tuesday, April 23, 2024 | Galapagos, Bolivia |
+| Wednesday, April 24, 2024 | Galapagos, Bolivia |
+| Thursday, April 25, 2024 | Galapagos, Bolivia |
+| Friday, April 26, 2024 | Galapagos, Bolivia |
+| Saturday, April 27, 2024 | Galapagos, Bolivia |
+| Sunday, April 28, 2024 | Galapagos, Bolivia |
 | Monday, April 29, 2024 |
 | Tuesday, April 30, 2024 |
-| Wednesday, May 1, 2024 |
-| Thursday, May 2, 2024 |
-| Friday, May 3, 2024 | Bolivia ? |
-| Saturday, May 4, 2024 |
-| Sunday, May 5, 2024 |
-| Monday, May 6, 2024 |
-| Tuesday, May 7, 2024 |
-| Wednesday, May 8, 2024 |
-| Thursday, May 9, 2024 |
-| Friday, May 10, 2024 |
-| Saturday, May 11, 2024 |
-| Sunday, May 12, 2024 |
-| Monday, May 13, 2024 |
-| Tuesday, May 14, 2024 | costa rica? |
-| Wednesday, May 15, 2024 |
-| Thursday, May 16, 2024 |
-| Friday, May 17, 2024 |
-| Saturday, May 18, 2024 |
-| Sunday, May 19, 2024 |
-| Monday, May 20, 2024 |
-| Tuesday, May 21, 2024 |
-| Wednesday, May 22, 2024 |
-| Thursday, May 23, 2024 |
-| Friday, May 24, 2024 |
-| Saturday, May 25, 2024 |
+| Wednesday, May 1, 2024 | Virginia |
+| Thursday, May 2, 2024 | Virginia |
+| Friday, May 3, 2024 | Virginia |
+| Saturday, May 4, 2024 | Virginia |
+| Sunday, May 5, 2024 | Virginia |
+| Monday, May 6, 2024 | Virginia |
+| Tuesday, May 7, 2024 | Virginia |
+| Wednesday, May 8, 2024 | Virginia |
+| Thursday, May 9, 2024 | Virginia |
+| Friday, May 10, 2024 | Virginia |
+| Saturday, May 11, 2024 | Virginia |
+| Sunday, May 12, 2024 | Virginia |
+| Monday, May 13, 2024 | Virginia |
+| Tuesday, May 14, 2024 | Virginia |
+| Wednesday, May 15, 2024 | Virginia |
+| Thursday, May 16, 2024 | Virginia |
+| Friday, May 17, 2024 | Virginia |
+| Saturday, May 18, 2024 | Virginia |
+| Sunday, May 19, 2024 | Virginia |
+| Monday, May 20, 2024 | Virginia |
+| Tuesday, May 21, 2024 | Virginia |
+| Wednesday, May 22, 2024 | Virginia |
+| Thursday, May 23, 2024 | Virginia |
+| Friday, May 24, 2024 | Virginia |
+| Saturday, May 25, 2024 | Virginia |
 | Sunday, May 26, 2024 |
 | Monday, May 27, 2024 |
 | Tuesday, May 28, 2024 |
