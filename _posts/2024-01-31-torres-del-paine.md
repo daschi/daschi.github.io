@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Torres del Paine (blue) and the W-Trek at EcoCamp Patagonia
+title: Torres del Paine (blue) and the W-Trek at EcoCamp Patagonia (updated 5/1/24)
 date: 2024-01-31
 img: ecocamp_patagonia.jpeg
 author: yellz
@@ -22,6 +22,7 @@ A couple of weeks ago we spent five days at EcoCamp Patagonia where we did the W
 - **Length**: ~15 miles (my watch said it was more like 17)
 - **Time**: ~9 hours
 - **Elevation Gain**: 2250 ft
+- **Written by: Daniela**
 
 We had breakfast at 6am at EcoCamp and then packed our own lunchboxes before we were driven to a ferry to cross Pehoe Lake, and we would start our trek at camp Pehoe. This first day was absolutely gorgeous - which feels a bit cheesy to say it because I would say this for every single day we hiked. But this day - the weather was perfect, it was windy but not too windy, and it lightly rained a bit which felt refreshing in the heat we were generating hiking uphill. We saw two lakes that gave me an entirely new sense of the color blue - Sarmiento Lake and Nordenskjöld lake. Once we reached the top we saw a whole other type of blue - the icy blue of the glaciers nestled between the mountain peaks. We ate lunch at this top view point between Paine Grande and Los Cuernos (the horns - called so because they are two-toned horned peaks) - and I must say it really was one of the best lunches we had, just because of how hard the steep climb had been.
 
@@ -44,6 +45,13 @@ That night it felt good to rest at Grande Paine campground. The tents were warm 
 - **Length**: ~9 miles
 - **Time**: ~5 hours
 - **Elevation Gain**: 800 ft
+- **Written by: Ash**
+
+I woke up in the middle of the night and got to see the stars. It's pretty light out until like 2am so this was the only time I got to see the starry night sky. It's so cool when you can see stardust and the milky way, and being so far away from all of the light pollution. I’ve only seen the sky like that a few times in my life, so this was really special to see it here at the end of the world in South America. We have to start our hikes very, very early everyday, and I wish I could get a head start before the tour group since I was pretty slow and beat up from the day before. I didn’t prepare for this trek very well, I’m not in shape and it was hard to keep up with the group. This day I was determined to keep up speed with the rest of the group so that when they stop for a break, I can actually join for a full break too instead of catching up to the group and then having half a second to stop and breathe before we start off again. This wasn’t the best strategy in the end because I think I pushed myself too hard and that kicked me in the butt the next day.
+
+This hike started off sunny and bright and we saw the terrain change as we got closer to the water. It started to rain and I was sweating and cold from the rain at the same time. The trail was up and down along the cliff and in the far distance you could see the glacier. Our guides said that if we’re lucky and the weather permits we will be able to hike out to the glacier and take a boat back, if not we’d have to hike out and back. Rocks were slippery as we climbed up and down the trail. Later we saw a glowy blue iceberg floating in the lake signaling that we were close to the glacier. It was so cool to see. The trail was a bit more crowded than yesterday's and it was hard to not feel the anxiety of a big group of people behind you trying to pass by. When it was flat I used all my energy to try and catch up with the rest of the group. My legs started to cramp, and honestly I was in a lot of pain and it was hard to enjoy the sights lol. I was very concentrated on finishing the trek.
+
+As we got closer to the base camp by the glacier I heard our guide on the radio confirming we were able to take the boat back. Whew!! what a relief that was. I could've cried lol. Without the boat, this would have been another 10-12 hour hiking day. The campground was nice, they had a cafeteria and people were eating at picnic tables. At this point, the trek was over and we sat and ate our lunch packs. I was drenched in sweat and the rain from the dew.
 
 #### Day 3:
 
