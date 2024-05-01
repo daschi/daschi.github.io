@@ -55,7 +55,7 @@
 | Saturday, March 2, 2024 | Cusco, Peru |
 | Sunday, March 3, 2024 | Cusco, Peru |
 | Monday, March 4, 2024 | Cusco, Peru |
-| Tuesday, March 5, 2024 | Cartagena, Colombia |
+| Tuesday, March 5, 2024 | Cusco, Peru |
 | Wednesday, March 6, 2024 | Cartagena, Colombia |
 | Thursday, March 7, 2024 | Cartagena, Colombia |
 | Friday, March 8, 2024 | Cartagena, Colombia |
@@ -82,10 +82,10 @@
 | Friday, March 29, 2024 | Barranquilla, Colombia |
 | Saturday, March 30, 2024 | Barranquilla, Colombia |
 | Sunday, March 31, 2024 | Barranquilla, Colombia |
-| Monday, April 1, 2024 | Barranquilla, Colombia |
-| Tuesday, April 2, 2024 | Santa Marta, Colombia |
-| Wednesday, April 3, 2024 | Santa Marta, Colombia |
-| Thursday, April 4, 2024 | Santa Marta, Colombia |
+| Monday, April 1, 2024 | Minca, Colombia |
+| Tuesday, April 2, 2024 | Minca, Colombia |
+| Wednesday, April 3, 2024 | Minca, Colombia |
+| Thursday, April 4, 2024 | Minca, Colombia |
 | Friday, April 5, 2024 | Santa Marta, Colombia |
 | Saturday, April 6, 2024 | Santa Marta, Colombia |
 | Sunday, April 7, 2024 | Santa Marta, Colombia |
@@ -96,22 +96,22 @@
 | Friday, April 12, 2024 | San Francisco |
 | Saturday, April 13, 2024 | San Francisco |
 | Sunday, April 14, 2024 | San Francisco |
-| Monday, April 15, 2024 | Quito, Bolivia |
-| Tuesday, April 16, 2024 | Quito, Bolivia |
-| Wednesday, April 17, 2024 | Quito, Bolivia |
-| Thursday, April 18, 2024 | Galapagos, Bolivia |
-| Friday, April 19, 2024 | Galapagos, Bolivia |
-| Saturday, April 20, 2024 | Galapagos, Bolivia |
-| Sunday, April 21, 2024 | Galapagos, Bolivia |
-| Monday, April 22, 2024 | Galapagos, Bolivia |
-| Tuesday, April 23, 2024 | Galapagos, Bolivia |
-| Wednesday, April 24, 2024 | Galapagos, Bolivia |
-| Thursday, April 25, 2024 | Galapagos, Bolivia |
-| Friday, April 26, 2024 | Galapagos, Bolivia |
-| Saturday, April 27, 2024 | Galapagos, Bolivia |
-| Sunday, April 28, 2024 | Galapagos, Bolivia |
-| Monday, April 29, 2024 |
-| Tuesday, April 30, 2024 |
+| Monday, April 15, 2024 | San Francisco |
+| Tuesday, April 16, 2024 | San Francisco |
+| Wednesday, April 17, 2024 | San Francisco |
+| Thursday, April 18, 2024 | San Francisco |
+| Friday, April 19, 2024 | San Francisco |
+| Saturday, April 20, 2024 | San Francisco |
+| Sunday, April 21, 2024 | San Francisco |
+| Monday, April 22, 2024 | Virginia |
+| Tuesday, April 23, 2024 | Virginia |
+| Wednesday, April 24, 2024 | Virginia |
+| Thursday, April 25, 2024 | Virginia |
+| Friday, April 26, 2024 | Virginia |
+| Saturday, April 27, 2024 | Virginia |
+| Sunday, April 28, 2024 | Virginia |
+| Monday, April 29, 2024 | Virginia |
+| Tuesday, April 30, 2024 | Virginia |
 | Wednesday, May 1, 2024 | Virginia |
 | Thursday, May 2, 2024 | Virginia |
 | Friday, May 3, 2024 | Virginia |
@@ -137,47 +137,47 @@
 | Thursday, May 23, 2024 | Virginia |
 | Friday, May 24, 2024 | Virginia |
 | Saturday, May 25, 2024 | Virginia |
-| Sunday, May 26, 2024 |
-| Monday, May 27, 2024 |
-| Tuesday, May 28, 2024 |
-| Wednesday, May 29, 2024 |
-| Thursday, May 30, 2024 |
-| Friday, May 31, 2024 |
-| Saturday, June 1, 2024 |
-| Sunday, June 2, 2024 |
-| Monday, June 3, 2024 |
-| Tuesday, June 4, 2024 |
-| Wednesday, June 5, 2024 |
-| Thursday, June 6, 2024 |
-| Friday, June 7, 2024 |
-| Saturday, June 8, 2024 |
-| Sunday, June 9, 2024 |
-| Monday, June 10, 2024 |
-| Tuesday, June 11, 2024 |
-| Wednesday, June 12, 2024 |
-| Thursday, June 13, 2024 |
-| Friday, June 14, 2024 |
-| Saturday, June 15, 2024 | Austria/italy |
-| Sunday, June 16, 2024 |
-| Monday, June 17, 2024 |
-| Tuesday, June 18, 2024 |
-| Wednesday, June 19, 2024 |
-| Thursday, June 20, 2024 |
-| Friday, June 21, 2024 |
-| Saturday, June 22, 2024 |
-| Sunday, June 23, 2024 |
-| Monday, June 24, 2024 |
-| Tuesday, June 25, 2024 |
-| Wednesday, June 26, 2024 |
-| Thursday, June 27, 2024 |
-| Friday, June 28, 2024 |
-| Saturday, June 29, 2024 |
-| Sunday, June 30, 2024 |
-| Monday, July 1, 2024 |
-| Tuesday, July 2, 2024 |
-| Wednesday, July 3, 2024 |
-| Thursday, July 4, 2024 |
-| Friday, July 5, 2024 |
+| Sunday, May 26, 2024 | Virginia |
+| Monday, May 27, 2024 | Virginia |
+| Tuesday, May 28, 2024 | Virginia |
+| Wednesday, May 29, 2024 | Virginia |
+| Thursday, May 30, 2024 | Virginia |
+| Friday, May 31, 2024 | Virginia |
+| Saturday, June 1, 2024 | Virginia |
+| Sunday, June 2, 2024 | Virginia |
+| Monday, June 3, 2024 | Virginia |
+| Tuesday, June 4, 2024 | Virginia |
+| Wednesday, June 5, 2024 | Virginia |
+| Thursday, June 6, 2024 | Virginia |
+| Friday, June 7, 2024 | Virginia |
+| Saturday, June 8, 2024 | Virginia |
+| Sunday, June 9, 2024 | Virginia |
+| Monday, June 10, 2024 | Virginia |
+| Tuesday, June 11, 2024 | Virginia |
+| Wednesday, June 12, 2024 | Virginia |
+| Thursday, June 13, 2024 | Virginia |
+| Friday, June 14, 2024 | Virginia |
+| Saturday, June 15, 2024 | Virginia |
+| Sunday, June 16, 2024 | Virginia |
+| Monday, June 17, 2024 | Virginia |
+| Tuesday, June 18, 2024 | London, England |
+| Wednesday, June 19, 2024 | London, England |
+| Thursday, June 20, 2024 | London, England |
+| Friday, June 21, 2024 | Amsterdam, Netherlands |
+| Saturday, June 22, 2024 | Amsterdam, Netherlands |
+| Sunday, June 23, 2024 | Amsterdam, Netherlands |
+| Monday, June 24, 2024 | Amsterdam, Netherlands |
+| Tuesday, June 25, 2024 | Amsterdam, Netherlands |
+| Wednesday, June 26, 2024 | Amsterdam, Netherlands |
+| Thursday, June 27, 2024 | Copenhagen, Denmark |
+| Friday, June 28, 2024 | Copenhagen, Denmark |
+| Saturday, June 29, 2024 | Copenhagen, Denmark |
+| Sunday, June 30, 2024 | Copenhagen, Denmark |
+| Monday, July 1, 2024 | Copenhagen, Denmark |
+| Tuesday, July 2, 2024 | Copenhagen, Denmark |
+| Wednesday, July 3, 2024 | Copenhagen, Denmark |
+| Thursday, July 4, 2024 | Copenhagen, Denmark |
+| Friday, July 5, 2024 | Copenhagen, Denmark |
 | Saturday, July 6, 2024 |
 | Sunday, July 7, 2024 |
 | Monday, July 8, 2024 |
