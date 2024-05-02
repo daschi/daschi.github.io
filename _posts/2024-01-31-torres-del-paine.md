@@ -60,6 +60,4 @@ As we got closer to the base camp by the glacier I heard our guide on the radio 
 - **Time**: ~10 hours
 - **Elevation Gain**: 3000 ft
 
-Day 2 and 3 TO BE CONTINUED!!!! We're about to go on a walking tour in Buenos Aires now :) But I'm happy I had a bit of time this morning to start updating the blog again. <3 y'all
-
-~ yellz
+Day 3 TO BE CONTINUED!!!!
